@@ -1,0 +1,7 @@
+1:html=HyperText Markup Language
+2:go to ex.html
+3:Question 01 => NO
+  Question 02 => YES
+  Question 03 => NO
+  Question 04 => NO
+4:go to ex.html

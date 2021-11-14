@@ -1,0 +1,41 @@
+1:
+*<!DOCTYPE html>
+*Quirks mods
+*NO
+*NO
+*ترمز اللى العناوين
+2:لا اختلاف بينهم
+  <p class="element">Welcome To The New World</p>
+  <p class='element'>Welcome To The New World</p>
+  <p class=element>Welcome To The New World</p>
+3:لا اختلاف بينهم
+  <p class=element hidden>Welcome To The New World</p>
+  <p class="element" hidden>Welcome To The New World</p>
+4:نعم كلها بنفس الشكل 
+  <p>Hello World</p>
+
+  <p>
+  Hello World
+  </p>
+
+  <p>
+  Hello 
+  World
+  </p>
+
+  <p>
+  Hello
+
+
+  World
+  </p>
+5:global attribut yes/no
+  title   : YES
+  href    : NO
+  src     : NO
+  hidden  : YES
+  charset : NO
+  class   : YES
+  id      : YES
+  type    : NO
+6:go to ex2.html

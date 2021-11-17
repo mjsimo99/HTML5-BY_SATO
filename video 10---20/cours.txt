@@ -1,0 +1,75 @@
+video 11:
+
+b=text bold
+strong=importent text bold
+i= italic
+em=emphasized
+mark=marked text
+u=underline
+small=smaller text
+del=deleted text
+ins=inserted text
+sub=subscript
+sup=superscript 
+
+video 12:for link
+
+<a href="www.sato.com" target="_blank" title="go to sato">satoru</a>
+id="simo" for go to simo a href="#simo"...
+<a href="mailto:simo@gmail.com">satoru</a>
+
+video 13:for image
+
+src=source
+alt= alternat.txt
+
+<img src="image/simo.png" alt="myimage"
+
+video 13:for Lists - UL, OL, DL
+
+ul=unorder list
+
+<ul>
+<li>html</li>
+<li>css</li>
+</ul>
+ex:.html
+   .css
+
+ol=order list
+
+
+<ol>
+<li>html</li>
+<li>css</li>
+</ol>
+ex:1.html
+   2.css
+<ol reversed> تقلب الترتيب
+<ol start="10"> العدد الذي تبدا به
+<ol type="A"> مكان الاعداد حروف
+
+dl=description list
+dt=term
+dd=description  term
+
+<dl>
+<dt>html</dt>
+<dd>language of the web</dd>
+<dd>the first lan</dd>
+<dt>css</dt>
+<dd>language of the visuals</dd>
+</ol>
+
+video 20:
+
+colspan=دمج افقي
+
+<table>
+<caption>title of table</caption>
+<tr><th></th></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td colspan="2"></td></tr>
+
+</table>

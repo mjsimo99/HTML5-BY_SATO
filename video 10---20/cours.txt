@@ -61,7 +61,7 @@ dd=description  term
 <dd>language of the visuals</dd>
 </ol>
 
-video 20:
+video 15:
 
 colspan=دمج افقي
 
@@ -73,3 +73,30 @@ colspan=دمج افقي
 <tr><td colspan="2"></td></tr>
 
 </table>
+
+video 16 :
+
+<span>
+<br>
+<hr>
+
+video 17 :
+
+<div>
+
+video 18 :
+
+&lt;p&ngt; <p>
+html entities....
+
+video 19 :
+
+class container 
+class row
+
+<header>
+<nav>
+<footer>
+
+video 19 :
+
